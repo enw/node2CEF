@@ -1,0 +1,15 @@
+{
+  "name": "node2CEF",
+  "version": "0.0.1",
+  "description": "send messages in AppJS from NodeJS to CEF",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "keywords": [
+    "appjs"
+  ],
+  "author": "Elliot Winard <enw@caveteen.com>",
+  "license": "BSD"
+}
