@@ -1,6 +1,6 @@
 {
-  "name": "node2CEF",
-  "version": "0.0.1",
+  "name": "node2cef",
+  "version": "0.0.2",
   "description": "send messages in AppJS from NodeJS to CEF",
   "main": "index.js",
   "scripts": {
